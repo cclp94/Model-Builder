@@ -1,6 +1,3 @@
-Caio Correa Leal Paiva
-Student ID: 27339887
-
 =====================Assignment 1==============================
 The assign was developed using Visual Studio 2015
 
